@@ -25,3 +25,7 @@
 - **Works Well Under Pressure**: I perform efficiently and remain focused even in high-pressure situations.
 - **Team Player**: I enjoy working in teams and contribute positively to group dynamics.
 - **Proactive**: I take initiative and am proactive in identifying and solving potential challenges.
+
+## Contact
+
+- **Mail**: <lionlightheart@gmail.com>

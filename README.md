@@ -4,6 +4,16 @@
 
 - to be implemented
 
+## About Me
+
+Hello, I'm Ramón, a technology enthusiast from Azuqueca de Henares. From a young age, I’ve been captivated by the world of computing and programming, dedicating much of my time to exploring and mastering various areas within the field of technology.
+
+With experience in web programming using Node.js and Python, as well as expertise in artificial intelligence and Big Data, I strive to stay updated with the latest technologies and trends. Currently, I am expanding my skills in .NET and diving deeper into the development of LLMs like ChatGPT and Gemini, along with their integration via APIs.
+
+My goal is to continue learning and growing in my professional career, tackling new challenges and contributing to innovative projects. My enthusiasm for computing and my eagerness to continuously learn drive me to seek opportunities where I can apply my skills and further develop.
+
+I am open to new experiences and always ready to collaborate on projects that allow me to grow both professionally and personally.
+
 ## Skills
 
 ### Technical Skills

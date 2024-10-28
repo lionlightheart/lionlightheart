@@ -6,11 +6,25 @@
 
 #### BackEnd
 
-- Comming soon
+- Coming soon
 
 #### FrontEnd
 
-- Comming soon
+- Coming soon
+
+### CheesGPT
+
+#### Description
+
+- Use chat gpt api to play with it.
+
+#### BackEnd
+
+- Coming soon
+
+#### FronEnd
+
+- Coming soon
 
 ## About Me
 

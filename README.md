@@ -12,7 +12,7 @@
 
 - Coming soon
 
-### CheesGPT
+### ChesGPT
 
 #### Description
 

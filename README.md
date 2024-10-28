@@ -22,7 +22,7 @@
 
 - Coming soon
 
-#### FronEnd
+#### FrontEnd
 
 - Coming soon
 

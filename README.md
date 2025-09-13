@@ -1,33 +1,5 @@
 # Portfolio Ramón Panadero
 
-## Projects
-
-### Pizza for you
-
-#### BackEnd
-
-- Coming soon
-
-#### FrontEnd
-
-- Coming soon
-
-### ChesGPT
-
-#### Description
-
-- Use chat gpt api to play with it.
-
-#### BackEnd
-
-- Coming soon
-
-#### FrontEnd
-
-- Coming soon
-
-## About Me
-
 Hello, I'm Ramón, a technology enthusiast from Azuqueca de Henares. From a young age, I’ve been captivated by the world of computing and programming, dedicating much of my time to exploring and mastering various areas within the field of technology.
 
 With experience in web programming using Node.js and Python, as well as expertise in artificial intelligence and Big Data, I strive to stay updated with the latest technologies and trends. Currently, I am expanding my skills in .NET and diving deeper into the development of LLMs like ChatGPT and Gemini, along with their integration via APIs.
